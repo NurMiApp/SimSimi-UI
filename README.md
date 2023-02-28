@@ -4,3 +4,4 @@ SimSimi UI by Mr Hack IO
 ```
 ~$ npm install simsimi --save
 ```
+# Coin Free
