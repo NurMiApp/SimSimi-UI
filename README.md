@@ -16,3 +16,4 @@ SimSimi UI by Mr Hack IO
 500 Coin
 # Thanks 
 The following link subscribe me! [Subscribe mikegaming420!](https://youtube.com/@Mike_875)
+Join discord link! [Join Discord!]
