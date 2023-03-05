@@ -14,3 +14,5 @@ SimSimi UI by Mr Hack IO
 400 Coin
 
 500 Coin
+# Thanks 
+The following link subscribe me!
