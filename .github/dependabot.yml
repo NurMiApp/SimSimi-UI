@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "com.ismaker.actions.dependabot" # See documentation for possible values
+  - package-ecosystem: "com.ismaker.dependabot" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
