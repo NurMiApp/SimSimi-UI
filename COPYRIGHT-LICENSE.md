@@ -18,5 +18,6 @@
 17. [AdMob Native Ads](https://github.com/ammarahm-ed/react-native-admob-native-ads)
 18. [Animated Number](https://github.com/heyman333/react-native-animated-numbers)
 19. [Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
+20. [Reanimated](https://github.com/software-mansion/react-native-reanimated)
 
 심심이(주)의 제품입니다.
