@@ -5,5 +5,6 @@
 4. [Splash screen](https://github.com/crazycodeboy/react-native-splash-screen)
 5. [Make](https://github.com/bamlab/react-native-make)
 6. [Swiper](https://github.com/leecade/react-native-swiper)
+7. [Google SignIn](https://github.com/react-native-google-signin/google-signin)
 
 심심이(주)의 제품입니다.
