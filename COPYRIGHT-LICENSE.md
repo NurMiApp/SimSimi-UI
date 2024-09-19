@@ -32,6 +32,7 @@
 1. [Realm.js](https://github.com/realm/realm-js)
 2. [App](https://github.com/invertase/react-native-firebase)
 3. [Auth](https://github.com/invertase/react-native-firebase)
-4. [Apple Authentication](https://github.com/invertase/react-native-apple-authentication) 
+4. [Apple Authentication](https://github.com/invertase/react-native-apple-authentication)
+5. [Lottie](https://github.com/lottie-react-native/lottie-react-native)
 
-심심이(주)의 제품입니다.
+심심이(주)의 제품입니다. 이것은 support-team@simsimi.com의 지원 이메일입니다.
