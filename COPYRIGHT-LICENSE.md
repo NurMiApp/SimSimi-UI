@@ -9,5 +9,6 @@
 8. [Modal](https://github.com/react-native-modal/react-native-modal)
 9. [Elements](https://github.com/react-native-elements/react-native-elements)
 10. [Pie Chart](https://github.com/genexu/react-native-pie-chart)
+11. [Clipboard](https://github.com/react-native-clipboard/clipboard)
 
 심심이(주)의 제품입니다.
