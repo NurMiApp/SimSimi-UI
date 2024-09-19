@@ -31,6 +31,7 @@
 제품별 아파치 라이센스 © 모든 권리 반전.
 1. [Realm.js](https://github.com/realm/realm-js)
 2. [App](https://github.com/invertase/react-native-firebase)
-3. [Auth](https://github.com/invertase/react-native-firebase) 
+3. [Auth](https://github.com/invertase/react-native-firebase)
+4. [Apple Authentication](https://github.com/invertase/react-native-apple-authentication) 
 
 심심이(주)의 제품입니다.
