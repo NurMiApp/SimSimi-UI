@@ -15,13 +15,13 @@
 14. [Keyboard Aware Scroll View](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
 15. [Localize](https://github.com/zoontek/react-native-localize)
 16. [Easy Toast](https://github.com/crazycodeboy/react-native-easy-toast)
-17. [AdMob Native Ads](https://github.com/ammarahm-ed/react-native-admob-native-ads)
+17. [Admob Native Ads](https://github.com/ammarahm-ed/react-native-admob-native-ads)
 18. [Animated Number](https://github.com/heyman333/react-native-animated-numbers)
 19. [Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
 20. [Reanimated](https://github.com/software-mansion/react-native-reanimated)
 21. [Number Format](https://github.com/s-yadav/react-number-format)
 22. [Static Server](https://github.com/futurepress/react-native-static-server)
 23. [Fetch Blob](https://github.com/joltup/rn-fetch-blob)
-24. [WebView](https://github.com/react-native-webview/react-native-webview)
+24. [Webview](https://github.com/react-native-webview/react-native-webview)
 
 심심이(주)의 제품입니다.
