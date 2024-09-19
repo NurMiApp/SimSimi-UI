@@ -20,5 +20,6 @@
 19. [Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
 20. [Reanimated](https://github.com/software-mansion/react-native-reanimated)
 21. [Number Format](https://github.com/s-yadav/react-number-format)
+22. [Static Server](https://github.com/futurepress/react-native-static-server)
 
 심심이(주)의 제품입니다.
