@@ -11,5 +11,6 @@
 10. [Pie Chart](https://github.com/genexu/react-native-pie-chart)
 11. [Clipboard](https://github.com/react-native-clipboard/clipboard)
 12. [Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context)
+13. [Recoil](https://github.com/facebookexperimental/Recoil)
 
 심심이(주)의 제품입니다.
