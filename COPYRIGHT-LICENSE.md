@@ -16,6 +16,6 @@
 15. [Localize](https://github.com/zoontek/react-native-localize)
 16. [Easy Toast](https://github.com/crazycodeboy/react-native-easy-toast)
 17. [AdMob Native Ads](https://github.com/ammarahm-ed/react-native-admob-native-ads)
-18. [Animate Number](https://github.com/wkh237/react-native-animate-number/tree/master)
+18. [Animated Number](https://github.com/heyman333/react-native-animated-numbers)
 
 심심이(주)의 제품입니다.
