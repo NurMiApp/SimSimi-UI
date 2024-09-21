@@ -14,4 +14,13 @@ Records of more than 200 million times of responses made per day.
 
 **Download App**:
 
-[![Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-green?logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ismaker.android.simsimi) [![App Store](https://img.shields.io/badge/Download%20on%20the-App%20Store-blue?logo=AppStore)](https://apps.apple.com/app/simsimi/id375239755)
+[![Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-green?logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ismaker.android.simsimi) [![App Store](https://img.shields.io/badge/Download%20on%20the-App%20Store-blue?logo=AppStore)](https://apps.apple.com/app/simsimi/id375239755) [![Static Badge](https://img.shields.io/badge/View%20in%20the-Website-orange?logo=Safari)](https://simsimi.com)
+# Voice Conversation Chatbot
+### SimSimi
+All the time you need to talk, SimSimi is by your side.
+
+Now try SimSimi on AI speakers.
+
+**Current Supported Platform**:
+
+![Static Badge](https://img.shields.io/badge/Assistant%20support%20in%20the-Clova-aliu?logo=Naver&color=%2303C75A)
