@@ -24,3 +24,15 @@ Now try SimSimi on AI speakers.
 **Current Supported Platform**:
 
 ![Static Badge](https://img.shields.io/badge/Assistant%20support%20in%20the-Clova-aliu?logo=Naver&color=%2303C75A)
+# Chatbot Workshop
+### SimSimi Workshop Services
+A service helps all the chatbots to do small talks/emotional talks well.
+
+Can utilize all the talk sets for small talks/emotional talks of SimSimi.
+
+Provides various customizing options.
+
+Support for the service development by sufficient free credits and payment charging based on use.
+
+**Visit Workshop Chatbot**:
+[![Static Badge](https://img.shields.io/badge/Workshop%20in%20the-SimSimi-purple?logo=LiveChat&logoColor=0474EA&color=%230474EA)] 
