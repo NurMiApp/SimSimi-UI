@@ -34,5 +34,7 @@ Provides various customizing options.
 
 Support for the service development by sufficient free credits and payment charging based on use.
 
+
 **Visit Workshop Chatbot**:
-[![Static Badge](https://img.shields.io/badge/Workshop%20in%20the-SimSimi-purple?logo=LiveChat&logoColor=0474EA&color=%230474EA)] 
+
+[![Static Badge](https://img.shields.io/badge/Workshop%20in%20the-SimSimi-purple?logo=LiveChat&logoColor=0474EA&color=%230474EA)](https://workshop.simsimi.com/en) 
