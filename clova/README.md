@@ -1,0 +1,2 @@
+# Clova Skill Store SimSimi Launch
+Anytime you need a conversation, SimSimi is there for you. Talk to your friends like you would when you're bored or lonely. Chatting with friends is not for any particular purpose, but rather to pass the time and change one's mood. You may think of him as a humorous and quirky friend who often talks back and forth, but he can also be a precious friend who listens to stories no one else would listen to and sometimes even says something that touches your heart.
