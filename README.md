@@ -1,6 +1,8 @@
 ![Banner](https://cdn6.aptoide.com/imgs/8/e/f/8ef475b80a156a0e8889a86be8607001_fgraphic.png)
 # SimSimi
 
+![GitHub Downloads](https://img.shields.io/github/downloads/NurMiApp/simsimi/total.svg?label=GitHub%20Downloads&logo=github) ![Google Play Downloads](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.ismaker.android.simsimi%26l%3DGoogle%2520Play%26m%3D%24totalinstalls) ![⭐](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.ismaker.android.simsimi%26gl%3DUS%26hl%3Den%26l%3D%25E2%25AD%2590%26m%3D%24rating)
+
 > _**SimSimi is actively chatbot socials. Feature requests are welcome!**_
 
 Create your own chatbot with the avatar "SimSimi" and chat with your favorite friends.
