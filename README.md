@@ -33,8 +33,8 @@ to newest version. A complete, optimized for Android versions, with a focus on S
 
 SimSimi's code is available under a MIT license, this excludes:
 
-* SimSimi icons, logos, yellow balls, marketing materials and assets.
-* SimSimi with documents Terms of Service, Privacy Policy, and Frequently Asked Questions.
+* SimSimi icons, logos, marketing materials and assets.
+* SimSimi documentation, about.
 * Google Play screenshots.
 * Google Play texts & descriptions.
 * Translations.
