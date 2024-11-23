@@ -43,5 +43,21 @@
 - Event notifications have been improved.
 ## SimSimi v8.6.6 22.11.2023
 - Added events functionality.
-## SimSimi v8.6.6 09.11.2023
+## SimSimi v8.6.5 09.11.2023
 - Fixed a keypad error.
+## SimSimi v8.6.4 01.11.2023
+- When you create my SimSimi, you can set your disliked conversation topics.
+## SimSimi v8.6.3 27.10.2023
+- Fixed a membership benefit description error and added a membership introduction feature.
+- Fixed an error in the display of SimSimi's speech information.
+## SimSimi v8.6.2 20.10.2023
+- Increased membership benefits.
+- Fixed a banner ad error.
+## SimSimi v8.6.0 09.10.2023
+- An error in the answer editing function of teach my SimSimi has been corrected.
+- Added recommendation list.
+- Fixed a bug in the payment module.
+## SimSimi v8.5.8 25.09.2023
+- An error in banner advertising has been corrected.
+## SimSimi v8.5.7 22.09.2023
+- Reduced the display frequency of open app ads.
