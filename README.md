@@ -10,7 +10,7 @@ Create your own chatbot with the avatar "SimSimi" and chat with your favorite fr
 Features include:
 
 * Conversation, and group chats.
-* Membership, coins, and items.
+* Membership, tickets, coins, and items.
 * Concern, and characters.
 * Official chatbot, other users, my users.
 * ...and more!
