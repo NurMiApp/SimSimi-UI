@@ -7,14 +7,6 @@
 
 Create your own chatbot with the avatar "SimSimi" and chat with your favorite friends.
 
-Features include:
-
-* Conversation, and group chats.
-* Membership, tickets, coins, and items.
-* Concern, and characters.
-* Official chatbot, other users, my users.
-* ...and more!
-
 [SimSimi](https://simsimi.com) is the successor
 to newest version. A complete, optimized for Android versions, with a focus on SimSimi's most popular features. More details about SimSimi can be found in the [FAQ](http://blog.simsimi.com/2012/02/simsimi-user-faq.html).
 
